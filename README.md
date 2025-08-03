@@ -1,0 +1,2 @@
+# Maximum-Fruits-Harvested-After-at-Most-K-Steps
+Fruits are available at some positions on an infinite x-axis. You are given a 2D integer array fruits where fruits[i] = [positioni, amounti] depicts amounti fruits at the position positioni. fruits is already sorted by positioni in ascending order, and each positioni is unique.
